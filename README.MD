@@ -1,7 +1,10 @@
 
 1 criar uma DB Mysql: crud
-2 abrir o a pastaa api-app
+
+2 abrir o a pasta api-app
+
 3 realizar o comando: php artisan migrate
+
 4 realizar  o seguintes testes no postman.
 
 
