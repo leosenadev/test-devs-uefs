@@ -1,11 +1,12 @@
 
-1 criar uma DB Mysql: crud
+1 criar uma DB Mysql: crud.
 
-2 abrir o a pasta api-app
+2 cria uma pasta api-app e realizar o git clone.
 
-3 realizar o comando: php artisan migrate
+3 realizar o comando: php artisan migrate.
 
-4 realizar  o seguintes testes no postman.
+4 realizar o comando no terminal: 
+php artisan serve.
 
 
 ### USERS - API 
